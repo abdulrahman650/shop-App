@@ -64,6 +64,7 @@ class MyApp extends StatelessWidget {
             ..getFav()
             ..getUsrData(),
         ),
+
       ],
       child: BlocConsumer<AppCubit, AppStates>(
         listener: (context, state) {},
