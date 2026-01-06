@@ -1,6 +1,6 @@
 # shop_app1
 
-A new Flutter project.
+It is a digital marketplace that allows a person to shop and choose suitable goods, in addition to creating an account and logging in.with Apis
 
 ## Getting Started
 
